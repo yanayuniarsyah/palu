@@ -1,0 +1,2 @@
+# palu
+proyek palu
